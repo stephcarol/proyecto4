@@ -1,0 +1,33 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Fira+Sans:wght@500&display=swap');
+
+:root {
+    background-color: #004643;
+}
+
+h4 {
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Fira Sans', sans-serif;
+
+}
+
+h1, .h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4{
+  text-transform: uppercase;
+}
+
+.card-body{
+    background-color:yellowgreen;
+}
+.card-title{
+    font-weight: bold;
+}
+
+.section{
+    padding: 1cm;
+  }
